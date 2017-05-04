@@ -1,0 +1,41 @@
+[
+  {
+    "DeviceVersion": 5,
+    "DeviceName": 8827,
+    "PowerMode": true,
+    "TempMode": true,
+    "VoltageMode": true,
+    "ByPassMode": true,
+    "PowerLineModel": true,
+    "TCRModel": true,
+    "BatteryManager": true,
+    "BootManager": true,
+    "DeviceInfoManager": true,
+    "DeviceNameManager": true,
+    "DeviceOADManager": true,
+    "FahrenheitModel": true,
+    "CentigradeModel": true,
+    "SmokePlan": false,
+    "OADBinFileSize": 69632,
+    "MaxPower": 800,
+    "MinPower": 10,
+    "FahrenheitMaxTemp": 600,
+    "FahrenheitMinTemp": 200,
+    "CentigradeMaxTemp": 315,
+    "CentigradeMinTemp": 100,
+    "MaxVoltage": 850,
+    "MinVoltage": 0,
+    "MaxSmokePlan": 999,
+    "MinSmokePlan": 1,
+    "AtomizerType": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      129,
+      130,
+      131
+    ]
+  }
+]
